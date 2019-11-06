@@ -419,7 +419,8 @@ img {
   list-style: none;
 }
 .checklist-item:not(:last-of-type) {
-  border-bottom: 1px solid rgba(0,0,0,.1)
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  margin-bottom: 18px;
 }.linebreak {
   word-spacing: 300px;
 }
